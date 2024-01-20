@@ -4,7 +4,6 @@ return {
     { import = "astrocommunity.colorscheme.nightfox-nvim" },
     { import = "astrocommunity.colorscheme.kanagawa-nvim" },
     { import = "astrocommunity.colorscheme.iceberg-vim" },
-    { import = "astrocommunity.colorscheme.nightfox-nvim" },
     { import = "astrocommunity.pack.rust" },
     { import = "astrocommunity.pack.typescript" },
     { import = "astrocommunity.pack.python" },
