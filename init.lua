@@ -15,6 +15,7 @@ return {
     { import = "astrocommunity.pack.yaml" },
     { import = "astrocommunity.pack.docker" },
     { import = "astrocommunity.pack.terraform" },
+    { import = "astrocommunity.pack.go" },
   },
   colorscheme = "iceberg",
 }
